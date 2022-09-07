@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yamil Ávila</h1>
 
-<h3 align="center">Corporate <a href="mailto:yamilavila@avilnet.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<h3 align="center">Corporate <a href="mailto:yamilpra2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./ResumeHolberton2022-1.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 
 

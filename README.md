@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yamil Ávila</h1>
 
 <h3 align="center">Corporate <a href="mailto:yamilpra2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='![MyResume2022](https://user-images.githubusercontent.com/98177999/199547750-830c25a3-68f2-4d79-a67b-3bc6ceebdee7.png)'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+<a href='file:///home/holberton/Downloads/MyResume2022.png'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 
 
 
